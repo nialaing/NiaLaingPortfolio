@@ -1,0 +1,59 @@
+=
+----Home Page-----
+
+.navbar-inverse{
+background-color: white;
+border-color: black;
+text-align: center;
+}
+
+.navbar {
+    position: center;
+    min-height: 30px;
+    margin-bottom: 20px;
+    border: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+
+}
+
+#navigation_bar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: white;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    margin-right: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color:gray;
+    background-image: none;
+    padding: 9px 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+    border-radius: 4px;
+}
+
